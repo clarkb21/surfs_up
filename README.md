@@ -23,16 +23,14 @@
 
 ### June Temperature Observations
 - A total of 1,700 temperature observations were made for the month of June in the data set. 
-- The average temperature was approximately 75 degrees. 
-- The median temperature was exactly 75 degrees, so the data is not skewed. 
-- The maximum temperature was 85 degrees, and the minimum temperature was 64 degrees.
+- The average temperature was approximately 75 degrees and the median temperature was exactly 75 degrees, so the data is not skewed. 
+- The maximum temperature was 85 degrees, and the minimum temperature was 64 degrees, so the range of temperature is not very drastic.
 
 ![image](https://user-images.githubusercontent.com/104038813/182623288-89e36f51-d992-40fd-a9cc-da4ba91bc9c1.png)
 
 ### December Temperature Observations
-- A total of 1,517 observations were recorded in the month of December. 
-- The average temperature was approximately 71 degrees.
-- The median was exactly 71 degrees, so again the data is not skewed. 
+- A total of 1,517 observations were recorded in the month of December, so there is a lot of data to provide reliable analysis. 
+- The average temperature was approximately 71 degrees and the median was exactly 71 degrees, so again the data is not skewed.  
 - The maximum temperature was 83 degrees, and the minimum temperature was 56 degrees.
 
 ![image](https://user-images.githubusercontent.com/104038813/182623877-ea52bc1b-e9c3-41ac-a752-f7317d00c71c.png)
