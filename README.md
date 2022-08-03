@@ -38,9 +38,13 @@
 ## Summary
 - Comparing the two months, the average, maximum, and minimum temperatures are similar enough to not impact surfing and ice cream sales.
 - The Waves and Ice Cream shop should be able to stay open for business all year round.
-- Another major weather factor to consider is precipitation, as we don't want the business to get rained out. 
+    * Another major weather factor to consider is precipitation, as we don't want the business to get rained out. 
 
-![image](https://user-images.githubusercontent.com/104038813/182627256-b3eb15d2-19fb-4826-801d-8d3542b57792.png) | ![image](https://user-images.githubusercontent.com/104038813/182627759-ff218903-4c0b-4e87-a38e-180f36c14ec9.png)
+![image](https://user-images.githubusercontent.com/104038813/182627256-b3eb15d2-19fb-4826-801d-8d3542b57792.png)  ![image](https://user-images.githubusercontent.com/104038813/182627759-ff218903-4c0b-4e87-a38e-180f36c14ec9.png)
+
+    * As we can see, there is very little rain activity in both months. The avearge precipitation for either month is less than a quarter of an inch. 
+    * December does have an outlier in the data with a max amount of precipitation of 6.42 inches. 
+    *Overall, rain should not impact the success of the business. 
 
 
 
