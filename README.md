@@ -35,4 +35,10 @@
 
 ![image](https://user-images.githubusercontent.com/104038813/182623877-ea52bc1b-e9c3-41ac-a752-f7317d00c71c.png)
 
+## Summary
+- Comparing the two months, the average, maximum, and minimum temperatures are similar enough to not impact surfing and ice cream sales.
+- The Waves and Ice Cream shop should be able to stay open for business all year round.
+
+
+
 
