@@ -1,4 +1,4 @@
-#Oahu-Weather-Analysis
+# Oahu-Weather-Analysis
 
 ## Purpose
 - Collect and analyze data regarding weather patterns to help make business decisions for potential start up company
@@ -20,6 +20,21 @@
 - MSU Bootcamp Spot Module 9: https://courses.bootcampspot.com/courses/2508/pages/9-dot-0-4-investing-in-waves-and-ice-cream?module_item_id=635874
 
 ## Results
-- 
+
+### June Temperature Observations
+- A total of 1,700 temperature observations were made for the month of June in the data set. 
+- The average temperature was approximately 75 degrees. 
+- The median temperature was exactly 75 degrees, so the data is not skewed. 
+- The maximum temperature was 85 degrees, and the minimum temperature was 64 degrees.
+
+![image](https://user-images.githubusercontent.com/104038813/182623288-89e36f51-d992-40fd-a9cc-da4ba91bc9c1.png)
+
+### December Temperature Observations
+- A total of 1,517 observations were recorded in the month of December. 
+- The average temperature was approximately 71 degrees.
+- The median was exactly 71 degrees, so again the data is not skewed. 
+- The maximum temperature was 83 degrees, and the minimum temperature was 56 degrees.
+
+![image](https://user-images.githubusercontent.com/104038813/182623877-ea52bc1b-e9c3-41ac-a752-f7317d00c71c.png)
 
 
